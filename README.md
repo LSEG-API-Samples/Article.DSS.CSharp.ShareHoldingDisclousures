@@ -1,1 +1,1 @@
-# Article.DSS.CSharp.ShareHoldingDisclousures
+# Shareholding Disclosures Data Through DataScope Solutions
